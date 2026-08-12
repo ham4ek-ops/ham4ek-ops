@@ -52,5 +52,7 @@
 * *Открыт к предложениям на позицию Backend / Full-stack разработчика (от $2500/мес).*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ham4ek-ops&show_icons=true&theme=radical&locale=ru" alt="Статистика GitHub" />
+  <a href="https://github.com/ham4ek-ops">
+    <img src="https://github-readme-stats.vercel.app/api?username=ham4ek-ops&show_icons=true&theme=radical&locale=ru" alt="Статистика GitHub" />
+  </a>
 </p>
