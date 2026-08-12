@@ -1,16 +1,56 @@
-## Hi there 👋
+# Привет! Я Web/Full-stack разработчик 👋
 
-<!--
-**ham4ek-ops/ham4ek-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специалист с более чем **10-летним опытом** полного цикла разработки, проектирования архитектуры и администрирования высоконагруженных веб-проектов. 
 
-Here are some ideas to get you started:
+Специализируюсь на создании решений «под ключ»: от написания сложных бэкенд-модулей и кастомных CMS до глубокой интеграции корпоративных систем и настройки серверной инфраструктуры. Фокусируюсь на написании чистого кода, отказоустойчивости и автоматизации процессов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Технический стек и компетенции
+
+**Backend & Базы данных:**
+* PHP (7.4, **8.x**)
+* PostgreSQL, MySQL
+* Разработка сложной кастомной логики, проектирование архитектуры баз данных и написание собственных CMS
+
+**Frontend:**
+* JavaScript (имеется сертификат Минцифры)
+* HTML5, CSS3
+
+**CMS, Платформы и Интеграции:**
+* **1С-Битрикс:** глубокое знание ядра, разработка нетиповых модулей под специфику бизнеса, внедрение и администрирование Битрикс24
+* Опыт разработки на WordPress, Magento
+* Синхронизация систем с внешними платформами через API, подключение платежных шлюзов, эквайринга и служб доставки
+* Автоматизация бизнес-процессов на базе **n8n**
+
+**Системное администрирование & DevOps:**
+* Развертывание и тонкая настройка **BitrixVM**, управление серверами на базе FastPanel
+* Глубокое знание Windows на уровне системного администратора
+* Практический опыт обслуживания серверного железа и ПК
+
+---
+
+### 🚀 Реализованные проекты
+
+За время работы я спроектировал и выпустил в релиз десятки проектов, от корпоративных порталов до крупных интернет-магазинов. Ниже представлена часть портфолио:
+
+**E-commerce и корпоративные порталы:**
+* `stroyassortiment.ru` • `woodbest.ru` • `pilomaterialy.ru` • `мы-ярмарка.рф` 
+* `yarmarkadomov.com` • `vechichka.ru` • `ya91.ru` • `f91.ru` • `oilgreece.ru` 
+* `aura-interiors.ru` • `zvezdniygorodok.ru` • `suvenrs.ru` • `godrone.ru` 
+* `togetherlife.ru` • `shott.ru` • `kamchatsky1.ru`
+
+**Промо-страницы и лендинги:**
+* `51дом.рф` • `sad91.ru` • `перевозка-пианино.рф` 
+* `легкоремонт.рф` • `godrone.ru/corp` • `povedniki-ohrana.ru`
+
+---
+
+### 📫 Как со мной связаться:
+* **Telegram:** [@pashty4niy](https://t.me/pashty4niy)
+* **Email:** ham4ek@gmail.com
+* *Открыт к предложениям на позицию Backend / Full-stack разработчика (от $2500/мес).*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ham4ek-ops&show_icons=true&theme=radical&locale=ru" alt="Статистика GitHub" />
+</p>
