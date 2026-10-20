@@ -35,14 +35,14 @@
 За время работы я спроектировал и выпустил в релиз десятки проектов, от корпоративных порталов до крупных интернет-магазинов. Ниже представлена часть портфолио:
 
 **E-commerce и корпоративные порталы:**
-* `stroyassortiment.ru` • `woodbest.ru` • `pilomaterialy.ru` • `мы-ярмарка.рф` 
-* `yarmarkadomov.com` • `vechichka.ru` • `ya91.ru` • `f91.ru` • `oilgreece.ru` 
-* `aura-interiors.ru` • `zvezdniygorodok.ru` • `suvenrs.ru` • `godrone.ru` 
-* `togetherlife.ru` • `shott.ru` • `kamchatsky1.ru`
+- [stroyassortiment.ru](https://stroyassortiment.ru/) • [woodbest.ru](https://woodbest.ru/) • [pilomaterialy.ru](https://pilomaterialy.ru/) • [мы-ярмарка.рф](https://мы-ярмарка.рф/)
+- [yarmarkadomov.com](https://yarmarkadomov.com/) • [vechichka.ru](https://vechichka.ru/) • [ya91.ru](https://ya91.ru/) • [f91.ru](https://f91.ru/) • [oilgreece.ru](https://oilgreece.ru/)
+- [aura-interiors.ru](https://aura-interiors.ru/) • [zvezdniygorodok.ru](https://zvezdniygorodok.ru/) • [suvenrs.ru](https://suvenrs.ru/) • [godrone.ru](https://godrone.ru/)
+- [togetherlife.ru](https://togetherlife.ru/) • [shott.ru](https://shott.ru/) • [kamchatsky1.ru](https://kamchatsky1.ru/) • [zvezdniy-gorodok.ru](https://zvezdniy-gorodok.ru/)
 
 **Промо-страницы и лендинги:**
-* `51дом.рф` • `sad91.ru` • `перевозка-пианино.рф` 
-* `легкоремонт.рф` • `godrone.ru/corp` • `povedniki-ohrana.ru`
+- [51дом.рф](https://51дом.рф/) • [sad91.ru](https://sad91.ru/) • [перевозка-пианино.рф](https://перевозка-пианино.рф/)
+- [легкоремонт.рф](https://легкоремонт.рф/) • [godrone.ru/corp](https://godrone.ru/corp) • [povedniki-ohrana.ru](https://povedniki-ohrana.ru/)
 
 ---
 
