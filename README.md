@@ -35,14 +35,14 @@
 За время работы я спроектировал и выпустил в релиз десятки проектов, от корпоративных порталов до крупных интернет-магазинов. Ниже представлена часть портфолио:
 
 **E-commerce и корпоративные порталы:**
-- [stroyassortiment.ru](https://stroyassortiment.ru/){:target="_blank"} • [woodbest.ru](https://woodbest.ru/){:target="_blank"} • [pilomaterialy.ru](https://pilomaterialy.ru/){:target="_blank"} • [мы-ярмарка.рф](https://мы-ярмарка.рф/){:target="_blank"}
-- [yarmarkadomov.com](https://yarmarkadomov.com/){:target="_blank"} • [vechichka.ru](https://vechichka.ru/){:target="_blank"} • [ya91.ru](https://ya91.ru/){:target="_blank"} • [f91.ru](https://f91.ru/){:target="_blank"} • [oilgreece.ru](https://oilgreece.ru/){:target="_blank"}
-- [aura-interiors.ru](https://aura-interiors.ru/){:target="_blank"} • [zvezdniygorodok.ru](https://zvezdniygorodok.ru/){:target="_blank"} • [suvenrs.ru](https://suvenrs.ru/){:target="_blank"} • [godrone.ru](https://godrone.ru/){:target="_blank"}
-- [togetherlife.ru](https://togetherlife.ru/){:target="_blank"} • [shott.ru](https://shott.ru/){:target="_blank"} • [kamchatsky1.ru](https://kamchatsky1.ru/){:target="_blank"} • [zvezdniy-gorodok.ru](https://zvezdniy-gorodok.ru/){:target="_blank"}
+- [<kbd>stroyassortiment.ru</kbd>](https://stroyassortiment.ru/) [<kbd>woodbest.ru</kbd>](https://woodbest.ru/) [<kbd>pilomaterialy.ru</kbd>](https://pilomaterialy.ru/) [<kbd>мы-ярмарка.рф</kbd>](https://мы-ярмарка.рф/)
+- [<kbd>yarmarkadomov.com</kbd>](https://yarmarkadomov.com/) [<kbd>vechichka.ru</kbd>](https://vechichka.ru/) [<kbd>ya91.ru</kbd>](https://ya91.ru/) [<kbd>f91.ru</kbd>](https://f91.ru/) [<kbd>oilgreece.ru</kbd>](https://oilgreece.ru/)
+- [<kbd>aura-interiors.ru</kbd>](https://aura-interiors.ru/) [<kbd>zvezdniygorodok.ru</kbd>](https://zvezdniygorodok.ru/) [<kbd>suvenrs.ru</kbd>](https://suvenrs.ru/) [<kbd>godrone.ru</kbd>](https://godrone.ru/)
+- [<kbd>togetherlife.ru</kbd>](https://togetherlife.ru/) [<kbd>shott.ru</kbd>](https://shott.ru/) [<kbd>kamchatsky1.ru</kbd>](https://kamchatsky1.ru/) [<kbd>zvezdniy-gorodok.ru</kbd>](https://zvezdniy-gorodok.ru/)
 
 **Промо-страницы и лендинги:**
-- [51дом.рф](https://51дом.рф/){:target="_blank"} • [sad91.ru](https://sad91.ru/){:target="_blank"} • [перевозка-пианино.рф](https://перевозка-пианино.рф/){:target="_blank"}
-- [легкоремонт.рф](https://легкоремонт.рф/){:target="_blank"} • [godrone.ru/corp](https://godrone.ru/corp){:target="_blank"} • [povedniki-ohrana.ru](https://povedniki-ohrana.ru/){:target="_blank"}
+- [<kbd>51дом.рф</kbd>](https://51дом.рф/) [<kbd>sad91.ru</kbd>](https://sad91.ru/) [<kbd>перевозка-пианино.рф</kbd>](https://перевозка-пианино.рф/)
+- [<kbd>легкоремонт.рф</kbd>](https://легкоремонт.рф/) [<kbd>godrone.ru/corp</kbd>](https://godrone.ru/corp) [<kbd>povedniki-ohrana.ru</kbd>](https://povedniki-ohrana.ru/)
 
 ---
 
