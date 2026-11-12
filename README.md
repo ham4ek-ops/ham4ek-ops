@@ -15,7 +15,7 @@
 - **REST API & Webhooks** — интеграция внешних сервисов, платежных шлюзов, эквайринга, служб доставки и картографических API
 
 **Frontend & Mobile:**
-- **JavaScript (ES6+)** (сертификат Минцифры), **React.js, Vite, Tailwind CSS**
+- **JavaScript (ES6+)**, **React.js, Vite, Tailwind CSS**
 - **HTML5, CSS3** — адаптивная, кроссбраузерная и семантическая верстка
 - **Mobile Development (Capacitor):** упаковка веб-платформ и интернет-магазинов в нативные приложения для **iOS и Android** с поддержкой Push-уведомлений и кастомных User-Agent
 
